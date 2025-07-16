@@ -1,5 +1,4 @@
 Modern React Application with Vite
-This README provides a step-by-step guide to set up and run this React project locally. This project uses Vite as a build tool for a fast and modern development experience.
 
 What is Vite?
 Vite is a next-generation frontend tooling that provides an extremely fast development server and bundles your code for production. It leverages native ES modules in the browser, which allows for instant server start and lightning-fast Hot Module Replacement (HMR).
