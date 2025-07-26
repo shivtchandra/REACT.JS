@@ -1,0 +1,49 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background-color: #000000;
+  color: #ddd5d5;
+  margin: 0;
+}
+
+.app-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.app-header {
+  background-color: #959191;
+  color: rgb(21, 19, 19);
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+.app-footer {
+  text-align: center;
+  margin-top: 40px;
+  color: #888;
+}
+
+/* A general style for our sections */
+.cv-section {
+  background-color: rgb(7, 7, 6);
+  padding: 25px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.cv-section h2 {
+  margin-top: 0;
+  border-bottom: 2px solid #353639;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+

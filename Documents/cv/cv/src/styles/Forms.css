@@ -1,0 +1,91 @@
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #c2bdbd;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #5c5858;
+  border-radius: 4px;
+  box-sizing: border-box; /* Important for width: 100% */
+}
+
+.form-buttons {
+  text-align: right;
+  margin-top: 20px;
+  
+}
+
+.btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-left: 10px;
+}
+
+.btn-submit {
+  background-color: #efeff5;
+  color: rgb(18, 2, 2);
+}
+
+.btn-edit {
+  background-color: #dbd5d5;
+  color: #0d0d0d;
+}
+
+.display-info p {
+  margin: 5px 0;
+  font-size: 1.1rem;
+}
+
+
+.form-list-item {
+  border: 1px solid #eee;
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.btn-add {
+  background: none;
+  border: 1px dashed #aebfd0;
+  color: #dadcdf;
+  padding: 10px;
+  width: 100%;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-remove {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  color: #e4e0e0;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.display-list-item {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+.display-list-item:last-child {
+  border-bottom: none;
+}
+
+/* src/components/Experience.css */
+
+/* Base Form Styles */
