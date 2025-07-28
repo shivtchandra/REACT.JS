@@ -2,8 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#IS DEPLOYED AT 
-https://cv-resume-mu.vercel.app/
+Deployed at :-  https://cv-resume-mu.vercel.app/
 
 
 ## Available Scripts
